@@ -24,8 +24,13 @@ Hier dann der finale Druck, der etwa 2,5 Stunden gedauert hat.
 
 <img width = "49%" src="IMG/MK14050_5.jpg"/>
 
-Im Rahmen des Projekts habe ich ein Tutorial in drei Teilen erstellt. Den Link zu den **Tutorials auf youtube** gibt es in Kürze hier.
+Im Rahmen des Projekts habe ich ein Tutorial in drei Teilen erstellt. Den Link zu den **Tutorials auf youtube** gibt es hier:
 
+**Teil 1**: https://youtu.be/MmmyXsBOFyE
+
+**Teil 2:** https://youtu.be/vadg7nbgxD0
+
+**Teil 3:** https://youtu.be/obfeLnm1DDc
 
 
 
