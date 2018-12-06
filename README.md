@@ -5,8 +5,8 @@ Im Rahmen eines **Repair-Cafes** im Bootshaus bei den **Naturfreunden** München
 Mit unseren Möglichkeiten im 
 [erfindergarden](http://www.erfindergarden.de "erfindergarden") sollte das kein Problem sein.
 
-<img width = "49%" src="IMG/MK14050_3.jpg"/>
-<img width = "49%" src="IMG/MK14050_10.jpg"/>
+<img width = "48%" src="IMG/MK14050_3.jpg"/>
+<img width = "48%" src="IMG/MK14050_10.jpg"/>
 
 Ich habe dann zuerst einmal eine grobe Skizze angefertigt und mir die Maße eintragen lassen
 
@@ -18,7 +18,7 @@ Wir haben das original Modell dann doch etwas abgeändert und die Form für das 
 
 <img width = "49%" src="IMG/MK14050_14.jpg"/>
 
-Vorab gab es noch einen Probedruck um die Passgenauigkeit der Verzahnung zu überprüfen.
+Vorab gab es noch einen Probedruck um die **Passgenauigkeit der Verzahnung** zu überprüfen.
 
 Hier dann der finale Druck, der etwa 2,5 Stunden gedauert hat.
 
