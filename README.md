@@ -23,6 +23,7 @@ Vorab gab es noch einen Probedruck um die **Passgenauigkeit der Verzahnung** zu 
 Hier dann der finale Druck, der etwa 2,5 Stunden gedauert hat.
 
 <img width = "49%" src="IMG/MK14050_5.jpg"/>
+<img width = "49%" src="IMG/MK14050_20.jpg"/>
 
 Im Rahmen des Projekts habe ich ein Tutorial in drei Teilen erstellt. Den Link zu den **Tutorials auf youtube** gibt es hier:
 
